@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@yyyanghj",
+    "next/core-web-vitals"
+  ]
+}
