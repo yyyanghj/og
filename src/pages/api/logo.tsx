@@ -32,7 +32,7 @@ export default async function handler() {
       width: 160,
       height: 160,
       fonts: fonts,
-    }
+    },
   )
 
   return new Response(svg, {
