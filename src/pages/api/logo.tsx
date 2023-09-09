@@ -13,7 +13,7 @@ export default async function handler() {
     <div
       style={{
         fontSize: 80,
-        fontFamily: 'Neonderthaw',
+        fontFamily: 'Hanalei',
         background: 'black',
         color: '#fff',
         width: '100%',
